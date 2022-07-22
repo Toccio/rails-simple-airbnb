@@ -1,0 +1,19 @@
+// Place all the styles related to the flats controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+.container {
+  display: flex;
+margin-right: 80px;
+margin-left: 80px;
+}
+
+.flat-in-square {
+  display: flex;
+  border: 3px solid rebeccapurple;
+}
+
+.price-guests{
+  display: flex;
+ justify-content: space-around;
+}
